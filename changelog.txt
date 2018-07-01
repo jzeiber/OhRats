@@ -1,3 +1,6 @@
+1.0.4	2008-08-27
+* Added 1 more row to the map
+
 1.0.3	2008-08-10
 * More color
 * Tweaked some values (HP and wall probability)
