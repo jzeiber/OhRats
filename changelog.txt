@@ -1,3 +1,7 @@
+1.0.3	2008-08-10
+* More color
+* Tweaked some values (HP and wall probability)
+
 1.0.2	2008-08-09
 * Fixed only known issue (There was a small possibility that there wouldn't be
 a path from @ to the stairs.  Now there will always be a path)
