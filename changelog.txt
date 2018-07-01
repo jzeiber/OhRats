@@ -1,0 +1,11 @@
+1.0.2	2008-08-09
+* Fixed only known issue (There was a small possibility that there wouldn't be
+a path from @ to the stairs.  Now there will always be a path)
+* Changed rat color to gray
+* Changed starting HP to 50
+
+1.0.1	2008-08-09
+* Reduced code to 934 bytes
+
+1.0.0	2008-08-08
+* Initial Version
